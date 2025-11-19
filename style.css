@@ -1,3 +1,9 @@
 body {
   text-align: center;
+  background-color: brown;
+  color: yellow;
+}
+
+h1 {
+  font-family: Copperplate;
 }
